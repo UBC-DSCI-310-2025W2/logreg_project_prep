@@ -1,14 +1,6 @@
 # Welcome to logreg_project_prep
 
-|        |        |
-|--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/logreg_project_prep.svg)](https://pypi.org/project/logreg_project_prep/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/logreg_project_prep.svg)](https://pypi.org/project/logreg_project_prep/)  |
-| Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
-
-*TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
-If you don't plan to publish to PyPI, you can remove them.*
-
-logreg_project_prep is a project that simplifies the initial stages of a logistic regression data science project. It provides functions for four essential steps required to transform raw data into a format suitable for a logistic regression model. These include cleaning the data, conducting eda, splitting the data and scaling features.
+logreg_project_prep is a python package that simplifies the initial stages of a logistic regression data science project. It provides functions for four essential steps required to transform raw data into a format suitable for a logistic regression model. These include cleaning the data, conducting eda, splitting the data and scaling features.
 
 ## Get started
 
