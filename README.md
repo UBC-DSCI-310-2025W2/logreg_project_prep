@@ -8,7 +8,7 @@
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
-logreg_project_prep is a project that (describe what it does here).
+logreg_project_prep is a project that simplifies the initial stages of a logistic regression data science project. It provides functions for four essential steps required to transform raw data into a format suitable for a logistic regression model. These include cleaning the data, conducting eda, splitting the data and scaling features.
 
 ## Get started
 
