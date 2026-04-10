@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+import pytest
+
 from logreg_project_prep.scaling_helpers import scale_features
 
 def test_scale_features_math():
